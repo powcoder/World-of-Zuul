@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Monster
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\ \r\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ \r\n\ \r\n\ This\ class\ initialise\ the\ weight\ of\ monster\ and\ method\ how\ tools\ attack\ monsters.\r\n\ \r\n\r\n\ @author\ \ Ziqi\ Yan\ 21814078\r\n\ @version\ 2018.11.22\r\n
+comment1.params=
+comment1.target=Monster()
+comment2.params=
+comment2.target=void\ createMonster()
+comment2.text=Creating\ monster\ has\ random\ blood\ under\ 20\ blood.(May\ have\ 0\ blood\ which\ means\ free\ gold\ for\ player.\ )\r\n\ @param\ weight\ Monster\ weight\ equals\ random\ number\ from\ 0-20.\r\n
+comment3.params=
+comment3.target=void\ createBossMonster()
+comment4.params=
+comment4.target=int\ ifKillMonster()
+numComments=5

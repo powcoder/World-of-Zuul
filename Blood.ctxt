@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Blood
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\ \r\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ \r\n\ \r\n\ This\ class\ get\ and\ set\ blood.\r\n\ \r\n\r\n\ @author\ \ Ziqi\ Yan\ 21814078\r\n\ @version\ 2018.11.22\r\n
+comment1.params=
+comment1.target=int\ getBlood()
+comment1.text=Setter\ and\ getter\ of\ blood.\r\n\ @return\ new\ blood\ after\ caculation.\r\n
+comment2.params=blood
+comment2.target=void\ setBlood(int)
+numComments=3

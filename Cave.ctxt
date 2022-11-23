@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cave
+comment0.text=\r\n\ Class\ Cave\ -\ a\ cave\ in\ an\ adventure\ game.\r\n\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\ \r\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ \r\n\r\n\ A\ "Cave"\ represents\ one\ location\ in\ the\ scenery\ of\ the\ game.\ \ It\ is\ \r\n\ connected\ to\ other\ rooms\ via\ exits.\ \ The\ exits\ are\ labelled\ north,\ \r\n\ east,\ south,\ west.\ \ For\ each\ direction,\ the\ room\ stores\ a\ reference\r\n\ to\ the\ neighboring\ room,\ or\ null\ if\ there\ is\ no\ exit\ in\ that\ direction.\r\n\ \r\n\ @Ziqi\ Yan\ \ 21814078\ \ \r\n\ @version\ 2018.11.22\r\n
+comment1.params=description
+comment1.target=Cave(java.lang.String)
+comment1.text=\r\n\ Create\ a\ room\ described\ "description".\ Initially,\ it\ has\r\n\ no\ exits.\ Concept\ of\ "description"\ have\ not\ been\ used\ in\ this\ programme.\r\n\ @param\ description\ The\ room's\ description.\r\n
+comment2.params=direction\ neighbor
+comment2.target=void\ setExit(java.lang.String,\ Cave)
+comment3.params=
+comment3.target=java.lang.String\ getShortDescription()
+comment4.params=
+comment4.target=java.lang.String\ getLongDescription()
+comment5.params=
+comment5.target=java.lang.String\ getExitString()
+comment6.params=direction
+comment6.target=Cave\ getExit(java.lang.String)
+numComments=7

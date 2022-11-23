@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Tools
+comment0.text=\r\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Zuul"\ application.\ \r\n\ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ \r\n\ \r\n\ This\ class\ initialise\ the\ rate\ of\ three\ tools(start,intermediate,upper)\ \r\n\ Get\ and\ set\ this\ rate\r\n\r\n\ @author\ \ Ziqi\ Yan\ 21814078\r\n\ @version\ 2018.11.22\r\n
+comment1.params=description\ rate
+comment1.target=Tools(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment3.params=description
+comment3.target=void\ setDescription(java.lang.String)
+comment4.params=
+comment4.target=int\ getRate()
+comment5.params=rate
+comment5.target=void\ setRate(int)
+numComments=6

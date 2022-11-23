@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Gold
+comment0.text=\r\n\ \ "World\ of\ Zuul"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ Users\ \r\n\ \ can\ walk\ around\ through\ caves.\ \ It\ should\ really\ be\ extended\ \r\n\ \ to\ make\ it\ more\ interesting\ and\ more\ playable\ \!\r\n\ \ \r\n\ This\ class\ return\ and\ set\ gold.\ \r\n\ @Ziqi\ Yan\ 21814078\r\n\ @version\ 2018.11.22\r\n
+comment1.params=
+comment1.target=int\ getGold()
+comment2.params=gold
+comment2.target=void\ setGold(int)
+numComments=3
